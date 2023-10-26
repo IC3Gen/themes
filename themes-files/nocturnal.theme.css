@@ -36,10 +36,11 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 :root {
   --backgroundColor01: #1e2731;
   --backgroundColor02: #12171d;
-  --mainColor: #2275c9;
+  --mainColor: #078a3b;
   --gradientColor01: #00F260;
-  --gradientColor02: #0575E6;
-
+  --gradientColor02: #ff009d;
+  --customFont: "Comic Sans MS";
+    
   /* Better Hljs */
   --backgroundCode: #1e2731;
   --backgroundName: rgba(0, 0, 0, .2);
@@ -57,6 +58,4 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
   --rs-invisible-color: #747f8d;
   --rs-phone-visible: block;
   --rs-phone-color: var(--rs-online-color);
-
-  --customFont: 'gg sans', sans-serif;
 }
